@@ -24,7 +24,7 @@ description: Michael Gorokhovsky Personal Website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: 'projects"
+  Projects: "projects"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
