@@ -4,7 +4,7 @@ title: Projects
 subtitle: Some of the things I have worked on
 ---
 ## Website and Rrandom Number Generator
-### Languages/ frameworks used: HTML/ CSS/ React js/ Express js
+### Languages/ frameworks used: HTML/ CSS/ React js/ Express
 
 ![Snapshot of Website](/img/CPS530.jpg)
 
