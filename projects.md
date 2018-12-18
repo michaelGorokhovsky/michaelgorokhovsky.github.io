@@ -11,7 +11,7 @@ subtitle: Some of the things I have worked on
 ## Headers
 
 
-# Website and Random Number Generator
+## Website and Random Number Generator
 ### Languages/ frameworks used: HTML/ CSS/ React js/ Express
 
 ![Snapshot of Website](/img/CPS530.jpg)
