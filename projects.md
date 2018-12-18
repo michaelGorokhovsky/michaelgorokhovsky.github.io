@@ -3,11 +3,11 @@ layout: page
 title: Projects
 subtitle: Some of the things I have worked on
 ---
-**Table of Contents**
-[TOCM]
-
-[TOC]
-##Heading 2 [Heading link](https://michaelgorokhovsky.github.io/projects/ "Heading link")
+##### Table of Contents  
+[Website and Random Number Generator](#Website and Random Number Generator)  
+[Emphasis](#emphasis)   
+<a name="headers"/>
+## Headers
 
 
 ## Website and Random Number Generator
@@ -21,6 +21,7 @@ I also created a random number generator using Express js, which outputs and for
 
 [Link To Website](http://159.203.29.151:5000/#/Page4)
 
-
+#Emphasis
+#emphasis
 ##
 
