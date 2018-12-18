@@ -4,8 +4,8 @@ title: Projects
 subtitle: Some of the things I have worked on
 ---
 ##### Table of Contents  
-[Website and Random Number Generator](#Website)  
-[Website and Random Number Generator](#website)  
+[Website and Random Number Generator](##Website)  
+[Website and Random Number Generator](##website)  
 [Emphasis](#emphasis)   
 <a name="headers"/>
 ## Headers
@@ -22,6 +22,6 @@ I also created a random number generator using Express js, which outputs and for
 
 [Link To Website](http://159.203.29.151:5000/#/Page4)
 
-# Emphasis
+# emphasis
 ##
 
