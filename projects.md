@@ -2,6 +2,10 @@
 layout: page
 title: Projects
 subtitle: Some of the things I have worked on
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
 ---
 ## Website and Random Number Generator
 ### Languages/ frameworks used: HTML/ CSS/ React js/ Express
