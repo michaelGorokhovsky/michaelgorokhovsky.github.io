@@ -7,7 +7,7 @@ subtitle: Some of the things I have worked on
 [TOCM]
 
 [TOC]
-##Heading 2 link [Heading link](https://michaelgorokhovsky.github.io/projects/ "Heading link")
+##Heading 2 [Heading link](https://michaelgorokhovsky.github.io/projects/ "Heading link")
 
 
 ## Website and Random Number Generator
