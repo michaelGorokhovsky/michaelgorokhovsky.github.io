@@ -5,7 +5,8 @@ subtitle: Some of the things I have worked on
 ---
 ##### Table of Contents  
 [Website and Random Number Generator](#Website-and-Random-Number-Generator)  
-[City Builder](#City-Builder)   
+[City Builder](#City-Builder)
+[Forming Bonds](#Forming-Bonds)
 <a name="headers"/>
 
 
@@ -28,5 +29,14 @@ I also created a random number generator using Express js, which outputs and for
 In one of the assignments during my computer graphics course, I designed a city building program which llows users to create buildings in a city scene, manipulating location, scaling, and scaling on individual floors of chosen buildings.
 
 [Link to Github Repository With Project](https://github.com/michaelGorokhovsky/City-Builder)
+
+## Forming Bonds
+### Languages/ frameworks used: Java
+![Snapshot1](/img/fobo1.png)
+![Snapshot2](/img/fobo2.png)
+
+This was developed for around 48 hours as an entry for Ryerson's 2017 Hackathon (RuHacks)  
+Theis project is a teaching aid designed to assist with introductory chemistry classes. It allows a user to select from several elements in the periodic table. If they select more than 1 element, the program will determine whether a bond is possible between them. It will then determine the type of bond that will be created and deliver that knowledge to the user. Further improvements would include the application containing a larger selection of atoms, as well as more complex molecules with more feedback given to the user.
+
 
 
