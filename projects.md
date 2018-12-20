@@ -32,10 +32,12 @@ In one of the assignments during my computer graphics course, I designed a city 
 
 ## Forming Bonds
 ### Languages/ frameworks used: Java
-| ![Snapshot1](/img/fobo1.png) | ![Snapshot2](/img/fobo2.png) |
+About to add 2nd element          | 2 bonded elements
+:-------------------------:|:-------------------------:
+![Snapshot1](/img/fobo1.png)  | ![Snapshot2](/img/fobo2.png)
 
 This was developed for around 48 hours as an entry for Ryerson's 2017 Hackathon (RuHacks)  
-Theis project is a teaching aid designed to assist with introductory chemistry classes. It allows a user to select from several elements in the periodic table. If they select more than 1 element, the program will determine whether a bond is possible between them. It will then determine the type of bond that will be created and deliver that knowledge to the user. Further improvements would include the application containing a larger selection of atoms, as well as more complex molecules with more feedback given to the user.
+Theis project is a teaching aid designed to assist with introductory chemistry classes. It allows a user to select from several elements in the periodic table. If they select more than 1 element, the program will determine whether a bond is possible between them. It will then determine the type of bond that will be created and deliver that knowledge to the user.
 
 
 
