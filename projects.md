@@ -39,5 +39,5 @@ About to add 2nd element          | 2 bonded elements
 This was developed for around 48 hours as an entry for Ryerson's 2017 Hackathon (RuHacks)  
 Theis project is a teaching aid designed to assist with introductory chemistry classes. It allows a user to select from several elements in the periodic table. If they select more than 1 element, the program will determine whether a bond is possible between them. It will then determine the type of bond that will be created and deliver that knowledge to the user.
 
-
+[Link to Github Repository With Project](https://github.com/michaelGorokhovsky/2017-Ryerson-Hackathon-Forming-Bonds)
 
