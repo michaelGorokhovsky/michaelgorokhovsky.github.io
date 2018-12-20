@@ -4,7 +4,7 @@ title: Projects
 subtitle: Some of the things I have worked on
 ---
 ##### Table of Contents  
-[Website and Random Number Generator](#Website)  
+[Website and Random Number Generator](#Website-and-Random-Number-Generator)  
 [Website and Random Number Generator](#website)  
 [Emphasis](#emphasis)   
 <a name="headers"/>
