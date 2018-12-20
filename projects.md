@@ -5,7 +5,7 @@ subtitle: Some of the things I have worked on
 ---
 ##### Table of Contents  
 [Website and Random Number Generator](#Website-and-Random-Number-Generator)  
-[City Builder](#City-Builder)
+[City Builder](#City-Builder)  
 [Forming Bonds](#Forming-Bonds)
 <a name="headers"/>
 
