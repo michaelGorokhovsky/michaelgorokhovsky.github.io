@@ -43,7 +43,7 @@ Theis project is a teaching aid designed to assist with introductory chemistry c
 ## Drone Exploration
 ### Languages/ frameworks used: C, OpenGL
 
-![Snapshot of Drone](//img/DroneExploration.jpg)
+![Snapshot of Drone](/img/DroneExploration.jpg)
 
 Explore a city through a camera mounted underneath a drone. The city has collision detection with buildings, as well as other drones that can be destroyed by launching torpedoes at them.  
 
