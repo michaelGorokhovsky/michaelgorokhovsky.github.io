@@ -7,6 +7,7 @@ subtitle: Some of the things I have worked on
 [Website and Random Number Generator](#Website-and-Random-Number-Generator)  
 [City Builder](#City-Builder)  
 [Forming Bonds](#Forming-Bonds)
+[Drone Exploration](#Drone-Exploration)
 <a name="headers"/>
 
 
@@ -38,4 +39,14 @@ This was developed for around 48 hours as an entry for Ryerson's 2017 Hackathon 
 Theis project is a teaching aid designed to assist with introductory chemistry classes. It allows a user to select from several elements in the periodic table. If they select more than 1 element, the program will determine whether a bond is possible between them. It will then determine the type of bond that will be created and deliver that knowledge to the user.
 
 [Link to Github Repository With Project](https://github.com/michaelGorokhovsky/2017-Ryerson-Hackathon-Forming-Bonds)
+
+## Drone Exploration
+### Languages/ frameworks used: C, OpenGL
+
+![Snapshot of Drone](//img/DroneExploration.jpg)
+
+Explore a city through a camera mounted underneath a drone. The city has collision detection with buildings, as well as other drones that can be destroyed by launching torpedoes at them.  
+
+[Link to Github Repository With Project](https://github.com/michaelGorokhovsky/Drone-Exploration)
+
 
