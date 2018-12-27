@@ -5,13 +5,8 @@ subtitle: Who is Michael Gorokhovsky
 bigimg: /img/path.jpg
 ---
 
-Hi, My name is Michael and I am an aspiring software developer
+Hi, My name is Michael and I am a results driven software developer. Currently, I am studying Computer Science Student at Ryerson University. Throughout my experience at Ryerson, I have been involved with various groups, with some of my more recent roles including acting as the VP Finance of the Computer Science Course Union, and as the Logistics Coordinator of the Ontario Student Association Conference.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+As a student, I have gained an incredible passion for software development, working on projects in various fields. I am on the lookout for opportunities to further develop my software skills and contribute to interesting projects.  
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+While not engaged in studies, I am a member of Ryerson's varsity fencing team, as well as an avid reader
