@@ -3,13 +3,6 @@ layout: page
 title: Projects
 subtitle: Some of the things I have worked on
 ---
-### Table of Contents
-[Website and Random Number Generator](#Website-and-Random-Number-Generator)  
-[City Builder](#City-Builder)  
-[Forming Bonds](#Forming-Bonds)
-[Drone Exploration](#Drone-Exploration)
-<a name="headers"/>
-
 
 ## Website and Random Number Generator
 ### Languages/ frameworks used: HTML/ CSS/ React js/ Express
@@ -48,5 +41,7 @@ Theis project is a teaching aid designed to assist with introductory chemistry c
 Explore a city through a camera mounted underneath a drone. The city has collision detection with buildings, as well as other drones that can be destroyed by launching torpedoes at them.  
 
 [Link to Github Repository With Project](https://github.com/michaelGorokhovsky/Drone-Exploration)
+
+#To see more of my projects, please have a look at my [Github](https://github.com/michaelGorokhovsky)
 
 
