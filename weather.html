@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Weather Application</title>
+  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+  
+      <link rel="stylesheet" href="weather.css">
+
+  
+</head>
+<!-- <body onload="findWeatherDetails()"> -->
+<body>
+<section class="head">
+<div class="enterInfo">
+<form onsubmit="return formSub()">
+<Input type="text" id="searchTxt" placeholder="Enter City for Weather" >
+<button type="submit" id="searchButt" ><i class="butt"></i></button>
+</form>
+</div>
+</section>
+<main>
+<div class="displayInfo">
+<div class="container">
+<div class="top">
+<div id="city">
+</div>
+
+<section class="otherTop">
+<div class="humidity">
+	<div id="humidityCurr"></div>
+
+</div>
+<div class="wind">
+	<div id="windSpeed"></div>
+
+</div>
+<div class="CFOuter">
+<div class="switchOuter">
+  <div class="switchInner"> <p id="cFText"></p></div>
+</div>
+</div>
+</section >
+<div class="temp">
+
+	<div id="tempCurr"></div>
+	<div class="pic">
+		<img src="" alt="" id="picWeather">
+
+	</div>
+
+</div>
+
+
+</div>
+</div>
+<div class="container">
+<div class="mid1">
+	<div class="h">
+	<h1> Future Forecasts </h1>
+	<h3> Hourly</h3>
+	</div>
+</div>
+</div>
+<div class="container">
+<section class="mid2">
+	<div class="w1">
+		<p id="timeH1">
+		<p id="tempH1">
+	</div>
+	<div class="w2">
+		<p id="timeH2">
+		<p id="tempH2">
+	</div>
+	<div class="w3">
+		<p id="timeH3">
+		<p id="tempH3">
+	</div>
+	<div class="w4">
+		<p id="timeH4">
+		<p id="tempH4">
+	</div>
+	<div class="w5">
+		<p id="timeH5">
+		<p id="tempH5">
+	</div>
+</section>
+</div>
+<div class="container">
+<div class = "daily">
+<h3> Next 5 days </h3>
+</div>
+<div class="bot">
+	<div class="d1">
+		<p id="dateD1">
+		<p id="tempD1">
+	</div>
+	<div class="d2">
+		<p id="dateD2">
+		<p id="tempD2">
+	</div>
+	<div class="d3">
+		<p id="dateD3">
+		<p id="tempD3">
+	</div>
+	<div class="d4">
+		<p id="dateD4">
+		<p id="tempD4">
+	</div>
+	<div class="d5">
+		<p id="dateD5">
+		<p id="tempD5">
+	</div>
+</div>
+</div>
+</div>
+</main>
+ <script  src="weather.js"></script> 
+</body>
+   
+</html>
