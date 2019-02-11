@@ -1,0 +1,185 @@
+body{
+	background-color: #9AFFF7;
+}
+p {
+	color: black;
+}
+#timeH1, #timeH2, #timeH3, #timeH4, #timeH5, #dateD1, #dateD2, #dateD3, #dateD4, #dateD5 {
+	color: #B2623A;
+}
+h1, h3{
+	color: #B2623A;
+}
+#humidityCurr, #windSpeed, #city, #tempCurr {
+	color: #B2623A;
+}
+.container {
+	margin: auto;
+	padding: 0;
+	width: 100%;
+}
+
+.container div {
+	box-sizing: border-box;
+	min-height: 50px;
+	border: bold;
+	
+}
+.displayInfo{
+	display: none;
+}
+.switchOuter {
+  background: #53B2AB;
+  box-sizing: border-box;
+  transition: 500ms;
+  width: 150px;
+  position: absolute;
+}
+
+.switchOuter.on {
+  padding-left: 100px;
+}
+
+.switchInner {
+  background: white;
+  border: 1px solid gray;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+}
+#p1 {
+	float: left;
+}
+#p2 {
+	float: right;
+	text-align: left;
+}
+.butt {
+	padding: 15px, 32px;
+	margin: 5px;
+	display: inline-block;
+	
+}
+#city {
+  font-family: "Courier New";
+  font-size: 30px;
+	left: 30%;
+		justify-content: center;
+	align-items: center;
+	position: absolute;
+}
+.head{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+#searchTxt {
+  color: black;
+  height:50px;
+  border-radius: 10px;
+  border-style:none;
+  outline:none;
+  padding-right:1px;
+  padding-left:1px;
+  text-align:center;
+  background-color: #FFAE86;
+}
+::placeholder {
+	color: #000227;  
+  }
+#searchButt {
+  width: 60px;
+  height:60px;
+  background-color: #FFAE86;
+}
+
+.top{
+	height: 100%;
+	display: flex;
+	padding-left: 20%;
+}
+.otherTop{
+	padding-top: 10%;
+}
+.temp {
+	text-align: left;
+	padding-left: 10%;
+	padding-top: 10%;
+	width: 80%;
+}
+.humidity{
+	position: relative;
+	height: 5%;
+	
+}
+.wind {
+	position: relative;
+	height: 5%;
+	display: inline;
+}
+.CFOuter {
+	position: relative;
+	height: 5%;
+	width: 6.5%;
+	display: inline;
+}
+#picWeather {
+	Width: 10%;
+}
+#tempCurr {
+	font-size: 60px;
+	bottom: 50%;
+	left: 50%;
+		justify-content: center;
+	align-items: center;
+}
+.mid1 {
+	width: 100%;
+	text-align: center;
+	padding-top: 5%;
+}
+
+.daily {
+	text-align: center;
+}
+
+.mid2, .bot{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.mid2 div, .bot div {
+	width: 16%;
+	padding: 15px;
+	height: 245px;
+	flex-wrap: wrap;
+	min-width: 140px;
+	text-align: center;
+	margin: 3px;
+	border: 2px solid #ffb288;
+	font-weight: bold;
+}
+@media (min-width: 600px) {
+	.enterInfo{
+		position: relative;
+		top: 50%;
+	}
+	.OtherTop {
+		width: 20%;
+	}
+	
+}
+@media (min-width: 800px) {
+	.enterInfo{
+		position: relative;
+		left: 50%;
+		top: 50%;
+	}
+	.OtherTop {
+		width: 10%;
+	}
+}
