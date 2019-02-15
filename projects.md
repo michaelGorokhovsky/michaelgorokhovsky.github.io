@@ -18,7 +18,7 @@ I also created a random number generator using Express js, which outputs and for
 ## Simple Weather App
 ### Languages/ frameworks used: HTML/ CSS/ JS
 
-Using vanilla, JS, CSS, and HTML, I developed a simple weather app that will deliver the current weather, and a future forecast for any city entered, and allows the user to swap between Celcius and Farenheight.
+Using vanilla, JS, CSS, and HTML, I developed a simple weather app that will deliver the current weather, and a future forecast for any city entered, and allows the user to swap between Celcius and Farenheit.
 
 [Link To project](http://mgoro.xyz/weather.html)
 
