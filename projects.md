@@ -3,7 +3,6 @@ layout: page
 title: Projects
 subtitle: Some of the things I have worked on
 ---
-
 ## Website and Random Number Generator
 ### Languages/ frameworks used: HTML/ CSS/ React js/ Express
 
@@ -15,6 +14,15 @@ I also created a random number generator using Express js, which outputs and for
 
 [Link To Website](http://159.203.29.151:5000/#/Page4)
 
+
+## Simple Weather App
+### Languages/ frameworks used: HTML/ CSS/ JS
+
+Using vanilla, JS, CSS, and HTML, I developed a simple weather app that will deliver the current weather, and a future forecast for any city entered, and allows the user to swap between Celcius and Farenheight.
+
+[Link To project](http://mgoro.xyz/weather.html)
+
+
 ## City Builder
 ### Languages/ frameworks used: C, OpenGL
 
@@ -24,6 +32,7 @@ In one of the assignments during my computer graphics course, I designed a city 
 
 [Link to Github Repository With Project](https://github.com/michaelGorokhovsky/City-Builder)
 
+
 ## Forming Bonds
 ### Languages/ frameworks used: Java
 ![Snapshot2](/img/fobo2.png)
@@ -32,6 +41,7 @@ This was developed for around 48 hours as an entry for Ryerson's 2017 Hackathon 
 Theis project is a teaching aid designed to assist with introductory chemistry classes. It allows a user to select from several elements in the periodic table. If they select more than 1 element, the program will determine whether a bond is possible between them. It will then determine the type of bond that will be created and deliver that knowledge to the user.
 
 [Link to Github Repository With Project](https://github.com/michaelGorokhovsky/2017-Ryerson-Hackathon-Forming-Bonds)
+
 
 ## Drone Exploration
 ### Languages/ frameworks used: C, OpenGL
