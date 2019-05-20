@@ -13,6 +13,7 @@ KnapSnack is a new app designed to help consumers decide on what to eat, based o
 The map functionalities were generated using the Google Maps API, and the information from the user is collected and stored using NodeJS, Express JS, and MongoDB
 
 [Link To project](https://knapsnack.online:8443)
+
 [Link To gitHub repository](https://github.com/michaelGorokhovsky/knapsnack)
 
 ## Website and Random Number Generator
