@@ -12,8 +12,6 @@ subtitle: Some of the things I have worked on
 KnapSnack is a new app designed to help consumers decide on what to eat, based on price, location and preference. It uses their location data combined with search criteria to suggest restaraunts for the users. It also provides directions. User queries are stored in a server side database
 The map functionalities were generated using the Google Maps API, and the information from the user is collected and stored using NodeJS, Express JS, and MongoDB
 
-[Link To project](https://knapsnack.online:8443)
-
 [Link To gitHub repository](https://github.com/michaelGorokhovsky/knapsnack)
 
 ## Website and Random Number Generator
