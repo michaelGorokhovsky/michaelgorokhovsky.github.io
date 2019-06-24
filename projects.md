@@ -61,6 +61,6 @@ Explore a city through a camera mounted underneath a drone. The city has collisi
 
 [Link to Github Repository With Project](https://github.com/michaelGorokhovsky/Drone-Exploration)
 
-To see more of my projects, please have a look at my [Github](https://github.com/michaelGorokhovsky)
+# To see more of my projects, please have a look at my [Github](https://github.com/michaelGorokhovsky)
 
 
