@@ -6,7 +6,7 @@ subtitle: Some of the things I have worked on
 ## Knapsnack
 ### Languages/ frameworks used: HTML/ CSS/ JavaScript/ NodeJS/ Express JS/ MongoDB
 
-![Snapshot of Website](https://github.com/michaelGorokhovsky/knapsnack/blob/master/1.jpg)
+![Snapshot of Website](/img/knapsnack.jpg)
 
 
 KnapSnack is a new app designed to help consumers decide on what to eat, based on price, location and preference. It uses their location data combined with search criteria to suggest restaraunts for the users. It also provides directions. User queries are stored in a server side database
